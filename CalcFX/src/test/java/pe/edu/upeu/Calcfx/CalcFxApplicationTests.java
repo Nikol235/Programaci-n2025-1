@@ -1,4 +1,4 @@
-package pe.edu.upeu.Calcfx;
+package pe.edu.upeu.calcfx;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
